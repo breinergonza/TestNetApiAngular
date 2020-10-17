@@ -1,2 +1,2 @@
-# Prueba en ASP.Net Core 4.8
-Esta es una prueba en ASP.Net Web Api
+# Laboratorio en ASP.Net Core 4.8
+Este es un laboratorio en ASP.Net Web Api en la capacitación dictada como introducción a .Net
